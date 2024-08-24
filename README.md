@@ -43,6 +43,6 @@ normalize any data if needed ensuring consistency)
 - Model Building:
   - Predictive Model: Use the 'scikit-learn' module to predict health outcomes based on other variables.
 - Visualization & Presentation:
-  - Dashboard Creation: Use a tool like 'Dash' to create an interactive dashboard.
+  - Dashboard Creation: Use a tool like 'Tableau' to create an interactive dashboard.
   - Include visual elements such as line graphs for trends, bar charts for categorical comparisons, and heatmaps for correlations.
 
